@@ -1,7 +1,7 @@
 # Download Managers
 
 [JDownloader2](https://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. (Free, Open-source)
-![jdownloader-2](https://github.com/Entree3k/Useful-Software/assets/28127566/9e388cca-2195-4bb9-a38b-798fb27226f0)
+![jdownloader-2 (Small)](https://github.com/Entree3k/Useful-Software/assets/28127566/8e2b171f-51b3-432a-a6a4-7be511dbbd5d)
 
 [Internet Download Manager (IDM)](https://internetdownloadmanager.com/) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial with this. Alternative method here. (Paid)
 
