@@ -12,7 +12,7 @@
 [pyLoad](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI. (Free, Open-source)
 
 [aria2](https://aria2.github.io/) - Commandline-based download utility. (Free, Open-source)
-![overview](https://github.com/Entree3k/Useful-Software/assets/28127566/c2f5ba49-5394-49bc-a065-3bb18c611e38)
+![overview (Small)](https://github.com/Entree3k/Useful-Software/assets/28127566/5f52a068-03b2-43ed-a1f6-dcc9a27b98c2)
 
 [Motrix](https://motrix.app/): Full-featured download manager that supports HTTP, FTP, BitTorrent, Magnet links, and more. (Free, Open-source)
-![motrix](https://github.com/Entree3k/Useful-Software/assets/28127566/0c223a98-a5a9-4cb8-9a9f-9f283e09a67c)
+![motrix (Small)](https://github.com/Entree3k/Useful-Software/assets/28127566/e3aefc28-2d81-4fa5-96fa-4f8b51b89b16)
