@@ -1,0 +1,11 @@
+# Download Managers
+
+[JDownloader2](https://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
+
+[Internet Download Manager (IDM)](https://internetdownloadmanager.com/) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial with this. Alternative method here.
+
+[XTREME download manager](https://xtremedownloadmanager.com/) - Another very nice download manager
+
+[pyLoad](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
+
+[aria2](https://aria2.github.io/) - Commandline-based download utility.
