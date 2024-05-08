@@ -3,7 +3,7 @@
 Welcome to the Useful Computer Software repository! Here you'll find a curated collection of software tools that can enhance your productivity, streamline your workflow, and elevate your computing experience. Whether you're a developer, designer, student, or simply an enthusiast, we've got something for everyone.
 Table of Contents
 
-
+[Adblockers & Bypassers](https://github.com/Entree3k/Useful-Software/blob/main/Adblockers%20%26%20Bypassers.md)
 
 # Development Tools
 
