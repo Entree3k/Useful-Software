@@ -11,3 +11,4 @@
 [aria2](https://aria2.github.io/) - Commandline-based download utility. (Free, Open-source)
 
 [Motrix](https://motrix.app/): Full-featured download manager that supports HTTP, FTP, BitTorrent, Magnet links, and more. (Free, Open-source)
+![motrix](https://github.com/Entree3k/Useful-Software/assets/28127566/0c223a98-a5a9-4cb8-9a9f-9f283e09a67c)
