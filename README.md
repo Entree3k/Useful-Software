@@ -1,7 +1,5 @@
 # Useful Software
 
-Useful Computer Software
-
 Welcome to the Useful Computer Software repository! Here you'll find a curated collection of software tools that can enhance your productivity, streamline your workflow, and elevate your computing experience. Whether you're a developer, designer, student, or simply an enthusiast, we've got something for everyone.
 Table of Contents
 
@@ -10,7 +8,7 @@ Table of Contents
     Creative Tools
     Utilities
 
-Development Tools
+# Development Tools
 
 This section is dedicated to tools that aid in software development, including IDEs, text editors, version control systems, and more.
 
@@ -18,7 +16,7 @@ This section is dedicated to tools that aid in software development, including I
     Git: The industry-standard version control system for tracking changes in source code during software development.
     Docker: Simplifies the process of managing application dependencies and deploying software in containers.
 
-Productivity Software
+# Productivity Software
 
 Boost your efficiency with these productivity-enhancing tools, ranging from note-taking apps to project management platforms.
 
@@ -26,7 +24,7 @@ Boost your efficiency with these productivity-enhancing tools, ranging from note
     Trello: A flexible project management tool that keeps track of your tasks and helps you stay organized.
     Microsoft Office Suite: Word, Excel, PowerPoint, and more – essential tools for productivity in the workplace and beyond.
 
-Creative Tools
+# Creative Tools
 
 Unleash your creativity with these software solutions tailored for designers, artists, and content creators.
 
@@ -34,7 +32,7 @@ Unleash your creativity with these software solutions tailored for designers, ar
     Figma: Collaborative interface design tool that enables real-time collaboration between team members.
     Blender: Open-source 3D creation suite for modeling, animation, simulation, and more.
 
-Utilities
+# Utilities
 
 This section features miscellaneous utilities and applications that serve various purposes, from system maintenance to security.
 
@@ -42,6 +40,6 @@ This section features miscellaneous utilities and applications that serve variou
     CCleaner: Keep your system clean and optimized by removing junk files and clearing cache.
     Malwarebytes: Protect your computer from malware, ransomware, and other online threats.
 
-Contributing
+# Contributing
 
 We welcome contributions from the community! If you have a favorite software tool that you believe should be included in this repository, feel free to submit a pull request or open an issue.
