@@ -11,7 +11,7 @@ This section is dedicated to tools that aid in software development, including I
 
 
 
-# Productivity Software
+# [Productivity Software](https://github.com/Entree3k/Useful-Software/blob/main/Productivity%20Tools.md)
 
 Boost your efficiency with these productivity-enhancing tools, ranging from note-taking apps to project management platforms.
 
@@ -23,7 +23,7 @@ Unleash your creativity with these software solutions tailored for designers, ar
 
 
 
-# Utilities
+# [Utilities](https://github.com/Entree3k/Useful-Software/tree/main/Utilities)
 
 This section features miscellaneous utilities and applications that serve various purposes, from system maintenance to security.
 
