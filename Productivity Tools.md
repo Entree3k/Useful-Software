@@ -11,4 +11,6 @@
 
 ### [Notepad++](https://notepad-plus-plus.org/): Feature-rich text editor and source code editor for Windows with syntax highlighting, tabbed interface, and customizable plugins, ideal for developers and anyone working with text files. (Free, Open-source)
 
+### [Nilesoft Shell](https://nilesoft.org/): Customize your Windows File Explorer context menu with handpicked items, create custom commands for quick access, and conveniently modify or remove existing context menu items. (Free)
+
 ### [PowerToys](https://github.com/microsoft/PowerToys): Set of utilities for power users to enhance productivity and customize Windows 10 and Windows 11. Includes features like FancyZones, PowerToys Run, and more. (Free, Open-source)
