@@ -8,4 +8,6 @@
 
 ### [TinyWall](https://github.com/pylorak/TinyWall): Lightweight firewall program for Windows with a simple interface and powerful features. Controls inbound and outbound traffic to enhance system security without intrusive pop-ups. (Free, Open-source)
 
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/blob/master/README_en-us.md): Network monitoring tool providing real-time information about network traffic and usage. (Free, Open-source)
+
 ### [Wireshark](https://www.wireshark.org/): Powerful network protocol analyzer for capturing and analyzing data packets in real-time. (Free, Open-source)
