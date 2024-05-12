@@ -3,27 +3,27 @@
 Welcome to the Useful Computer Software repository! Here you'll find a curated collection of software tools that can enhance your productivity, streamline your workflow, and elevate your computing experience. Whether you're a developer, designer, student, or simply an enthusiast, we've got something for everyone.
 Table of Contents
 
-# [Adblockers & Bypassers](https://github.com/Entree3k/Useful-Software/blob/main/Adblockers%20%26%20Bypassers.md)
+## [Adblockers & Bypassers](https://github.com/Entree3k/Useful-Software/blob/main/Adblockers%20%26%20Bypassers.md)
 
-# Development Tools
+## Development Tools
 
 This section is dedicated to tools that aid in software development, including IDEs, text editors, version control systems, and more.
 
 
 
-# [Productivity Software](https://github.com/Entree3k/Useful-Software/blob/main/Productivity%20Tools.md)
+## [Productivity Software](https://github.com/Entree3k/Useful-Software/blob/main/Productivity%20Tools.md)
 
 Boost your efficiency with these productivity-enhancing tools, ranging from note-taking apps to project management platforms.
 
 
 
-# [Creative Tools](https://github.com/Entree3k/Useful-Software/blob/main/Creative%20Tools.md)
+## [Creative Tools](https://github.com/Entree3k/Useful-Software/blob/main/Creative%20Tools.md)
 
 Unleash your creativity with these software solutions tailored for designers, artists, and content creators.
 
 
 
-# [Utilities](https://github.com/Entree3k/Useful-Software/tree/main/Utilities)
+## [Utilities](https://github.com/Entree3k/Useful-Software/tree/main/Utilities)
 
 This section features miscellaneous utilities and applications that serve various purposes, from system maintenance to security.
 
