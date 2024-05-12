@@ -8,3 +8,5 @@
 ![application-screenshot (Small)](https://github.com/Entree3k/Useful-Software/assets/28127566/bf917fc7-d138-4071-b66a-5f3d7560146f)
 
 ### [Inkscape](https://krita.org/en/): Vector graphics editor for creating illustrations, icons, logos, diagrams, and more. (Free, Open-source)
+
+### [Blender](https://www.blender.org/): Open-source 3D creation suite for modeling, animation, simulation, rendering, compositing, and motion tracking. (Free, Open-source)
