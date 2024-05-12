@@ -9,4 +9,6 @@
 
 ### [CopyQ](https://hluk.github.io/CopyQ/): Clipboard manager with advanced features like editing, scripting, and searching. (Free, Open-source)
 
+### [Notepad++](https://notepad-plus-plus.org/): Feature-rich text editor and source code editor for Windows with syntax highlighting, tabbed interface, and customizable plugins, ideal for developers and anyone working with text files. (Free, Open-source)
+
 ### [PowerToys](https://github.com/microsoft/PowerToys): Set of utilities for power users to enhance productivity and customize Windows 10 and Windows 11. Includes features like FancyZones, PowerToys Run, and more. (Free, Open-source)
