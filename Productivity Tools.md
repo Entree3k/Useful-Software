@@ -8,3 +8,5 @@
 ### [ShareX](https://getsharex.com/): Feature-rich screenshot and screen capture tool with support for annotations, image editing, and sharing options. (Free, Open-source)
 
 ### [CopyQ](https://hluk.github.io/CopyQ/): Clipboard manager with advanced features like editing, scripting, and searching. (Free, Open-source)
+
+### [PowerToys](https://github.com/microsoft/PowerToys): Set of utilities for power users to enhance productivity and customize Windows 10 and Windows 11. Includes features like FancyZones, PowerToys Run, and more. (Free, Open-source)
