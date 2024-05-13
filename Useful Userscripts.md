@@ -28,13 +28,21 @@ Customize your browsing experience with these useful userscripts:
 
   [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)
 
+  [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to Google Play Store when browsing apps.
+
   [dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music from musescore for free
 
   [Get DLC Info From SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.
 
   [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Bypass newspaper site paywalls. Requires tampermoney/greasemonkey to install.
 
+  [Nexus No Wait](https://greasyfork.org/en/scripts/394039-nexus-no-wait) - Download from Nexusmods.com without wait and redirect (support Manual/Vortex/MO2/NMM)
+
   [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adds a sci-hub button to countless academic/scholarly article websites to unlock the article being viewed.
+
+  [Simple YouTube Age Restriction Bypass](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Watch age restricted videos on YouTube without login and without age verification.
+
+  [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord) - Delete all messages in a Discord channel or DM (Bulk deletion)
 
   [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds button next to shortened URLs which resolves the URL to its true location
 
