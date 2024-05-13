@@ -8,7 +8,7 @@ Customize your browsing experience with these useful userscripts:
 
   [greasyfork.org](https://greasyfork.org/) - Repo for countless useful userscripts
 
-  [userscripts-mirror.org]() - Alternative scripts repo. Mirror for Userscripts.org
+  [userscripts-mirror.org](userscripts-mirror.org) - Alternative scripts repo. Mirror for Userscripts.org
 
   [openuserjs.org](https://openuserjs.org/) - Alternative scripts repo
 
