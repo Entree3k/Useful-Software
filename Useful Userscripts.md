@@ -2,13 +2,13 @@
 
 Customize your browsing experience with these useful userscripts:
 
-### UserScript Manager
+## UserScript Manager
 
   [Violentmonkey](https://violentmonkey.github.io/) - Open source userscript manager. Required to install any of the below userscripts
 
   [Tampermonkey](https://www.tampermonkey.net/) - Open source userscript manager. Required to install some userscripts
 
-### UserScript Repos
+## UserScript Repos
 
   [greasyfork.org](https://greasyfork.org/) - Repo for countless useful userscripts
 
@@ -16,7 +16,7 @@ Customize your browsing experience with these useful userscripts:
 
   [openuserjs.org](https://openuserjs.org/) - Alternative scripts repo
 
-### UserScripts
+## UserScripts
 
   [dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music from musescore for free
 
