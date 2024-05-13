@@ -2,9 +2,13 @@
 
 Customize your browsing experience with these useful userscripts:
 
+### UserScript Manager
+
   [Violentmonkey](https://violentmonkey.github.io/) - Open source userscript manager. Required to install any of the below userscripts
 
   [Tampermonkey](https://www.tampermonkey.net/) - Open source userscript manager. Required to install some userscripts
+
+### UserScript Repos
 
   [greasyfork.org](https://greasyfork.org/) - Repo for countless useful userscripts
 
@@ -12,7 +16,9 @@ Customize your browsing experience with these useful userscripts:
 
   [openuserjs.org](https://openuserjs.org/) - Alternative scripts repo
 
-  [musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music from musescore for free
+### UserScripts
+
+  [dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music from musescore for free
 
   [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds button next to shortened URLs which resolves the URL to its true location
 
