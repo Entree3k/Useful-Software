@@ -11,6 +11,8 @@
 
 ### [Notepad++](https://notepad-plus-plus.org/): Feature-rich text editor and source code editor for Windows with syntax highlighting, tabbed interface, and customizable plugins, ideal for developers and anyone working with text files. (Free, Open-source)
 
+### [Obsidian](https://obsidian.md/): Powerful note-taking and knowledge management app with markdown editor, bi-directional linking, and graph view. Organize thoughts effectively for personal and professional use. (Free, Premium features available, Open-source)
+
 ### [ShareX](https://getsharex.com/): Feature-rich screenshot and screen capture tool with support for annotations, image editing, and sharing options. (Free, Open-source)
 
 ### [Thunderbird](https://www.thunderbird.net/): Email client and newsreader for Windows, offering features for managing multiple email accounts, organizing messages, and protecting against spam and phishing attacks. (Free, Open-source)
