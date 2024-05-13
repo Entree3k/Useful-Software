@@ -7,7 +7,7 @@
 
 ### [Start11](https://www.stardock.com/products/start11/): Customization tool for Windows 10, allowing users to personalize the Start menu appearance and functionality. (Paid)
 
-### [Tabme](https://github.com/Far-Se/tabame): Chrome extension for organizing and managing browser tabs, providing features for grouping, sorting, and searching tabs to improve productivity and reduce clutter (Free)
+### [Tabme](https://github.com/Far-Se/tabame): Tabame is an alternative to Windows Taskbar. It also contains great tools such as advanced Hotkeys, QuickRun, Trktivity and Wizardly. (Free, Open-source)
 
 ### [Transparent TB](https://github.com/TranslucentTB/TranslucentTB): Utility for Windows enabling users to make the taskbar transparent for a sleek desktop look. (Free)
 
