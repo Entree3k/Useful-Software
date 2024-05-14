@@ -1,4 +1,4 @@
-# Media Managers
+# Media Management Tools
 
 ### [FileBot](https://www.filebot.net/): Versatile tool for organizing and renaming media files, including TV shows, movies, and more, based on user-defined naming conventions. (Free version available, Paid Licence for advanced features)
 ![rename screenshot (Small)](https://github.com/Entree3k/Useful-Software/assets/28127566/40021073-38ca-4eb0-83a8-d461dbae96ae)
