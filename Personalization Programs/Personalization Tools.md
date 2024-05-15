@@ -11,6 +11,6 @@
 
 ### [Tabme](https://github.com/Far-Se/tabame): Tabame is an alternative to Windows Taskbar. It also contains great tools such as advanced Hotkeys, QuickRun, Trktivity and Wizardly. (Free, Open-source)
 
-### [Transparent TB](https://github.com/TranslucentTB/TranslucentTB): Utility for Windows enabling users to make the taskbar transparent for a sleek desktop look. (Free)
+### [Transparent TB](https://github.com/TranslucentTB/TranslucentTB): Utility for Windows enabling users to make the taskbar transparent for a sleek desktop look. (Free, Open-source)
 
-### [Winaero Tweaker (WinToys)](https://bogdan-patraucean.github.io/about/wintoys/): Tweaking utility for Windows offering customization options for various settings and features. (Free)
+### [Winaero Tweaker (WinToys)](https://bogdan-patraucean.github.io/about/wintoys/): Tweaking utility for Windows offering customization options for various settings and features. (Free, Open-source)
