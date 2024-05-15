@@ -1,4 +1,4 @@
-# Browser Extensions
+# Useful Extensions
 
 Enhance your browsing experience with these useful extensions:
 
