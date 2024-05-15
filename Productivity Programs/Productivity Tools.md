@@ -14,6 +14,8 @@
 ### [Obsidian](https://obsidian.md/): Powerful note-taking and knowledge management app with markdown editor, bi-directional linking, and graph view. Organize thoughts effectively for personal and professional use. (Free, Premium features available, Open-source)
 ![screenshot-1 0-hero-combo (Small)](https://github.com/Entree3k/Useful-Software/assets/28127566/f5b9a7c0-2b91-4c6e-8ae7-a39266c44594)
 
+### [OnTopReplica](https://github.com/LorenzCK/OnTopReplica): A real-time always-on-top “replica” of a window of your choice. (Free, open-source) 
+
 ### [ShareX](https://getsharex.com/): Feature-rich screenshot and screen capture tool with support for annotations, image editing, and sharing options. (Free, Open-source)
 
 ### [Thunderbird](https://www.thunderbird.net/): Email client and newsreader for Windows, offering features for managing multiple email accounts, organizing messages, and protecting against spam and phishing attacks. (Free, Open-source)
