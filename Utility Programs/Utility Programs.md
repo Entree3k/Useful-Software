@@ -1,4 +1,4 @@
-# File Utilities
+# File Programs
 
 ### [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/): Feature-rich tool for batch renaming files and folders using various criteria and rules. (Free, Paid Commercial License)
 
@@ -10,7 +10,7 @@
 
 ### [WizTree](https://diskanalyzer.com/): Disk space analyzer that provides a visual representation of disk usage, allowing you to quickly identify large files and folders (Free)
 
-# Image & Video Utilities
+# Image & Video Programs
 
 ### [ImageGlass](https://github.com/d2phap/ImageGlass): Lightweight image viewer for Windows supporting various formats, with features like slideshow mode and basic editing tools. (Free, Open-source)
 
