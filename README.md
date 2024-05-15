@@ -1,8 +1,4 @@
-# ![title2](https://github.com/Entree3k/Useful-Software/assets/28127566/f7e1b69e-d9b8-4ac3-b87c-96c8ad70f355)
-
-
-
-
+# ![title3](https://github.com/Entree3k/Useful-Software/assets/28127566/7e271a26-c7d4-4a01-989c-e05d183a3e09)
 
 Welcome to the Useful Computer Software repository! Here you'll find a curated collection of software tools that can enhance your productivity, streamline your workflow, and elevate your computing experience. Whether you're a developer, designer, student, or simply an enthusiast, we've got something for everyone.
 Table of Contents
