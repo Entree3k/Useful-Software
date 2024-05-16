@@ -7,6 +7,8 @@
 
 ### [CopyQ](https://hluk.github.io/CopyQ/): Clipboard manager with advanced features like editing, scripting, and searching. (Free, Open-source)
 
+### [Ferdi](https://ferdium.org/): Multi-messenger desktop application for combining various messaging services into a single interface. Supports platforms like WhatsApp, Slack, Telegram, and more. Offers native notifications, workspaces, and customization options. (Free, Open-source)
+
 ### [Files](https://files.community/): Explore a beautiful Windows-first design. Manage all your files with increased productivity. Work across multiple folders with tabs. And so much more. (Free, Paid)
 
 ### [OnTopReplica](https://github.com/LorenzCK/OnTopReplica): A real-time always-on-top “replica” of a window of your choice. (Free, open-source) 
