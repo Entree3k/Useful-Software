@@ -4,6 +4,8 @@
 
 ### [file2foldergui](https://code.google.com/archive/p/file2foldergui/downloads): Utility for organizing files by automatically moving them into folders based on their file types or extensions. (Free)
 
+### [Handbrake](https://handbrake.fr/): Video transcoder that converts digital media between formats. Supports a wide range of video formats and codecs. Offers batch encoding, video filters, and presets. (Free, Open-source)
+
 ### [Search Everything](https://www.voidtools.com/): Lightning-fast search tool that locates files and folders instantly on your computer. (Free)
 
 ### [TeraCopy](https://www.codesector.com/teracopy): File transfer utility for Windows designed to optimize and speed up the copying and moving of files. (Free version available, Pro version with additional features available for purchase)
