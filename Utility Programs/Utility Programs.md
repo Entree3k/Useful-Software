@@ -6,6 +6,8 @@
 
 ### [Handbrake](https://handbrake.fr/): Video transcoder that converts digital media between formats. Supports a wide range of video formats and codecs. Offers batch encoding, video filters, and presets. (Free, Open-source)
 
+### [MKVToolNix-GUI](https://mkvtoolnix.download/downloads.html): Graphical user interface (GUI) for MKVToolNix, a set of tools for creating, modifying, and inspecting Matroska (MKV) files. Allows users to mux and demux multimedia files, add or remove audio tracks, subtitles, and chapters. Provides a user-friendly interface for efficient management of MKV files. (Free, Open-source)
+
 ### [rclone](https://github.com/rclone/rclone): Command-line program for managing files on cloud storage services. Supports multiple providers for file synchronization, copying, and moving. Features encryption, bandwidth control, and deduplication. (Free, Open-source)
 
 ### [Search Everything](https://www.voidtools.com/): Lightning-fast search tool that locates files and folders instantly on your computer. (Free)
