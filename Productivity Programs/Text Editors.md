@@ -1,4 +1,4 @@
-# Text & Note Editors
+# Text Editors
 
 ### [Etherpad](https://etherpad.org/): Real-time collaborative online editor for simultaneous document editing. Features version history and chat functionality. (Free, Open-source)
 ![etherpad](https://github.com/Entree3k/Useful-Software/assets/28127566/ac67c7cb-4343-4d78-b513-c611f74bb7e4)
@@ -12,5 +12,5 @@
 
 ### [ONLYOFFICE](https://www.onlyoffice.com/): Comprehensive online office suite with document editing, spreadsheet management, and presentation creation tools. Supports real-time collaboration and integration with cloud storage. (Freemium)
 
-### [Vikunja](https://vikunja.io/): Modern task manager and to-do list application for organizing tasks, setting deadlines, and tracking progress. Features task prioritization and collaboration support. (Free, Open-source)![09-task-detail-dark](https://github.com/Entree3k/Useful-Software/assets/28127566/38044873-af4b-48cd-a427-d3e4c621b548)
+### [Vikunja](https://vikunja.io/): Modern task manager and to-do list application for organizing tasks, setting deadlines, and tracking progress. Features task prioritization and collaboration support. (Free, Open-source)
 ![09-task-detail-dark](https://github.com/Entree3k/Useful-Software/assets/28127566/f662efb1-c9ec-42a0-b5ef-b3479f2e0f5c)
