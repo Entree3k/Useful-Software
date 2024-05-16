@@ -6,7 +6,11 @@
 
 ### [Handbrake](https://handbrake.fr/): Video transcoder that converts digital media between formats. Supports a wide range of video formats and codecs. Offers batch encoding, video filters, and presets. (Free, Open-source)
 
+### [rclone](https://github.com/rclone/rclone): Command-line program for managing files on cloud storage services. Supports multiple providers for file synchronization, copying, and moving. Features encryption, bandwidth control, and deduplication. (Free, Open-source)
+
 ### [Search Everything](https://www.voidtools.com/): Lightning-fast search tool that locates files and folders instantly on your computer. (Free)
+
+### [Syncthing](https://github.com/syncthing/syncthing): Open-source file synchronization tool for securely syncing files and folders across devices. Offers end-to-end encryption, peer-to-peer architecture, and versioning. Lightweight, decentralized, and compatible with various OS. (Free, Open-source)
 
 ### [TeraCopy](https://www.codesector.com/teracopy): File transfer utility for Windows designed to optimize and speed up the copying and moving of files. (Free version available, Pro version with additional features available for purchase)
 
